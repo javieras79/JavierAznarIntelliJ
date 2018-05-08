@@ -1,5 +1,11 @@
 package com.company;
 
+/**
+ * Ejercicio IntelliJ Unidad 12
+ *
+ * @author Javier Aznar Serna
+ * @version 1.0
+ */
 public class Main {
 
     public static String veredicto(String valor1, String valor2){
