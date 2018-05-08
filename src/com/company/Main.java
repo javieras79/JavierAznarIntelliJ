@@ -13,7 +13,7 @@ public class Main {
         return "Te has confiado. Falta realismo.";    }
 
     public static void main(String[] args) {
-        System.out.println("La calificación de" + args[0] + ":" + args[1]);
+        System.out.println("La calificación de " + args[0] + ":" + args[1]);
         System.out.println(veredicto(args[1],args[2]));
     }
 }
